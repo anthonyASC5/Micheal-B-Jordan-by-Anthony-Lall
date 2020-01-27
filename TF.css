@@ -1,0 +1,100 @@
+body{
+    background: rgb(179, 200, 245);
+    align-content:center;
+    content: "ayoo";
+}
+
+
+p.d{
+    font-size:40px;
+    font-family: 'Cinzel', serif;
+    padding-top: 10px;
+    font-style:bold;
+}
+p.e{
+    font-size:30px;
+    margin:0;
+    font-family: 'Cinzel', serif;
+}
+
+p.summary{
+   font-family: 'Didact Gothic', sans-serif;
+    font-size:22px;
+    padding-left: 310px;
+
+
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    float:left;
+}
+img:hover{
+height: 210px;
+width: 310px;
+}
+
+div{
+    background: rgb(172, 212, 245);
+    width: 99.8%;
+    margin-top: 0%;
+    text-align:center;
+    font-size: 70pt;
+    font-style: bold;
+    font-family: 'Cinzel', serif;
+
+}
+
+img.one{
+    height: 550px;
+    width: 414px;
+    display:flex;
+    flex-wrap: wrap;
+    float: left;
+    padding-bottom: 10px;
+
+}
+
+#wire{
+    height: 230px;
+    width: 224px;
+    display:flex;
+    flex-wrap: wrap;
+    float: right;
+
+}
+
+p.start{
+    font-size:15px;
+    font-family: 'Cinzel', serif;
+
+    margin: 0;
+
+}
+
+img.images{
+height:230px;
+width:400px;
+padding:5px;
+filter: saturate(0);
+}
+
+img.images:hover{
+    height:230px;
+    width:400px;
+    padding:5px;
+    filter: saturate(1);
+    }
+
+img.social{
+        height:100px;
+        width:100px;
+        padding:5px;
+     }
+
+
+     p.contact{
+        font-family: 'Alata', sans-serif;
+        font-size:22px;    
+    }

@@ -48,7 +48,7 @@ div{
 
 img.one{
     height: 550px;
-    width: 414px;
+    width: 404px;
     display:flex;
     flex-wrap: wrap;
     float: left;
@@ -68,8 +68,6 @@ img.one{
 p.start{
     font-size:15px;
     font-family: 'Cinzel', serif;
-
-    margin: 0;
 
 }
 
